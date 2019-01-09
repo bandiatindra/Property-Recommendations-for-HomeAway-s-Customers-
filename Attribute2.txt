@@ -1,0 +1,17 @@
+Kitchen
+Room
+Bed
+Bathroom
+Towels
+Living
+Bedroom
+Tv
+HDTV
+Shower
+Parking
+beds
+door
+master
+bedrooms
+dryer
+pool
